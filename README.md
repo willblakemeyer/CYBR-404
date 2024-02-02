@@ -1,2 +1,2 @@
-# CYBR404-HW1
-This is a README file for a new GitHub project.
+# CYBR404
+This is the GitHub Repository I will be using for my CYBR 404 assignments.
